@@ -1,0 +1,241 @@
+*{box-sizing: border-box; margin: 0px;padding: 0px}
+.main{
+	height: 50px;
+	width: 100%;
+	background: dimgray;
+	display: flex;
+	justify-content: space-between;
+}
+.main .left{
+	margin-left:10px;
+	margin-top: 15px;
+}
+.main .right{
+	margin-top: 15px;
+	margin-right: 10px;
+}
+.main .left p1{
+ color: white;
+}
+.main .left p2{
+color:green ;
+}
+.main .right button{
+	border: none;
+	background: yellowgreen;
+	color: white;
+}
+.head{
+	display: flex;
+	flex-grow: 1;
+
+}
+.head{
+	height: auto;
+	background: gray;
+}
+.head .xcall, .xname, .cart{
+	height: 200px;
+	width: 400px;
+}
+.head .xcall{
+	display: flex;
+	margin: 50px;
+}
+.head .xcall .icon, .time{
+    height: 200px;
+    width: 250px;
+ }
+.head .xcall .icon{
+     
+}
+.head .xcart .icon2,.view{
+	height: 200px;
+	width: 250px;
+}
+.head .xcart{
+	display: flex;
+	margin:50px;
+}
+.nav{
+	background: black;
+	text-align: center;
+	height: 50px;
+	 
+}
+.nav li{
+display:inline;
+list-style-type: none;
+
+}
+.nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+
+}
+.img{
+	background-color: saddlebrown;
+}
+.img{
+	padding-left: 300px;
+}
+.block{
+	background-color:#FFF979;
+	display: flex;
+	justify-content: center;
+}
+.pizza{
+	background: black;
+	height: 400px;
+	width: 100%;
+	padding-top: 30px;
+}
+.pizza .main4{
+	display: flex;
+}
+.para{
+	background-color:#FFF979;
+	display: flex;
+}
+.mainmenu{
+	background: black;
+	color: white;
+	text-align: center;
+}
+.navi{
+ 	text-align: center;
+ 	height: 70px;
+ }
+
+.navi li{
+	display: inline;
+
+ }
+ .navi a{
+ 	text-decoration: none;
+ 	color: white;
+ 	font-size: 17px;
+ 	font-weight: bold;
+ }
+ .pizza41{
+ 	background: black;
+ 	display: flex;
+ }
+ .pizza42{
+ 	background: black;
+ 	display: flex;
+ }
+ .footer1{
+ 	background:#FFF979;
+ }
+ .footer1 p{
+ 	text-align: center;
+ }
+ .footer1 h1{
+ 	font-size: 30px;
+ 	text-align: center;
+ }
+ .footer2{
+ 	display: flex;
+ 	background-color:#FFF979;
+ }
+ 
+.f1 p{
+			font-size: 16px;
+			text-align: center;
+		}
+		button{
+           background-color: transparent;
+           border: 2px solid;
+ 		}
+		button{
+			transition-duration: 0.4s;
+		}
+		button:hover{
+			background-color:black;
+			color: white;
+		}
+.f2 p{
+			font-size: 16px;
+			text-align: center;
+		}
+		button{
+           background-color: transparent;
+           border: 2px solid;
+ 		}
+		button{
+			transition-duration: 0.4s;
+		}
+		button:hover{
+			background-color:black;
+			color: white;
+		}	
+.f3 p{
+			font-size: 16px;
+			text-align: center;
+		}
+		button{
+           background-color: transparent;
+           border: 2px solid;
+ 		}
+		button{
+			transition-duration: 0.4s;
+		}
+		button:hover{
+			background-color:black;
+			color: white;
+		}	
+.f4 p{
+			font-size: 16px;
+			text-align: center;
+		}
+		button{
+           background-color: transparent;
+           border: 2px solid;
+ 		}
+		button{
+			transition-duration: 0.4s;
+		}
+		button:hover{
+			background-color:black;
+			color: white;
+		}			
+.footer3{
+	background-color: black;
+	color: white;
+	text-align: center;
+} 
+input {
+ background-color: darkgray;
+ border: 2px solid white;
+ color: white;
+}
+.footerend{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.navend{
+	background: black;
+	text-align: center;
+	height: 50px;
+	 
+}
+.navend li{
+display:inline;
+list-style-type: none;
+
+}
+.navend a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+
+
+
+
+
+
+
+ 
